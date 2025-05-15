@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Cafe Project",
+      "description": "Build a pixel perfect website based on a figma design",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "SCSS"
+      ],
+      "createdAt": "13/03/2025",
+      "githubLink": "https://github.com",
+      "demoLink": "https://netlify.com"
+    },
+    {
+      "id": "2",
+      "name": "Portfolio Project",
+      "description": "HTML, CSS personal portfolio website, all about me",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "SCSS"
+      ],
+      "createdAt": "21/03/2025",
+      "githubLink": "https://github.com",
+      "demoLink": "https://netlify.com"
+    },
+    {
+      "id": "3",
+      "name": "Hangman",
+      "description": "Vanilla Javascript hangman game",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript"
+      ],
+      "createdAt": "01/04/2025",
+      "githubLink": "https://github.com",
+      "demoLink": "https://netlify.com"
+    },
+    {
+      "id": "4",
+      "name": "Morse Code",
+      "description": "In Browser Morse code translator",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript"
+      ],
+      "createdAt": "08/04/2025",
+      "githubLink": "https://github.com",
+      "demoLink": "https://netlify.com"
+    },
+    {
+      "id": "1d86",
+      "name": "Google Books",
+      "githubLink": "https://github.com",
+      "demoLink": "https://netlify.com",
+      "techStack": [
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "description": "Use react to fetch info from the google books api and display it in a grid ",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "createdAt": "17/04/2025"
+    },
+    {
+      "id": "1f06",
+      "name": "test",
+      "githubLink": "",
+      "demoLink": "",
+      "techStack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "description": "test project",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "createdAt": "17/04/2025"
+    }
+  ]
+}

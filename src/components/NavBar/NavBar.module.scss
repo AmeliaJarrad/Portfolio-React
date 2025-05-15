@@ -1,0 +1,31 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em 1.5em 1.0em ;
+    max-width: 100%;
+    gap: 2em;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    
+    border: 3px inset whitesmoke;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #4242be;
+    transition: ease-in-out 0.2s;
+  
+    &:visited {
+      color: #5f4ca3;
+    }
+  
+    &:hover {
+      color: #ff844f;
+      transform: scale(1.05);
+    }
+  }
+  
+  .active_link {
+    text-decoration: underline;
+    color: #1717f4;
+  }
