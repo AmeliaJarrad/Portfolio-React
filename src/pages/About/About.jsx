@@ -29,7 +29,7 @@ export default function About() {
                 <h2 className={classes.landing_heading}>Tech Skills</h2>
                 <p className={classes.landing}>HTML, CSS, SCSS (Sass), Python, JavaScript, React </p>
                 <div className={classes.techBox__iconsRow}>
-                < classNameFontAwesomeIcon icon={faHtml5} />
+                < FontAwesomeIcon icon={faHtml5} />
                 <FontAwesomeIcon icon={faCss} />
                  <FontAwesomeIcon icon={faSass} />
                  <FontAwesomeIcon icon={faPython} />
