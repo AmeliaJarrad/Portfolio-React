@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router';
+import { HashRouter as Router, Route, Routes } from 'react-router';
 import Home from './pages/Home/Home';
 import About from './pages/About/About';
 import NavBar from './components/NavBar/NavBar';
@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-     <BrowserRouter>
+     <Router>
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -24,7 +24,7 @@ function App() {
           <Route path="/*" element={<NotFound />} />
         </Routes>
         <footer>Copyright {new Date().getFullYear()}</footer>
-      </BrowserRouter>
+      </Router>
     </>
   )
 }
