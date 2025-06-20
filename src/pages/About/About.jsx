@@ -1,6 +1,7 @@
 
 import classes from './About.module.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import portrait from '../../assets/Amelia_Portrait.jpg';
 
 import {  } from '@fortawesome/free-solid-svg-icons'
 import { faSass } from '@fortawesome/free-brands-svg-icons'
@@ -22,7 +23,7 @@ export default function About() {
                     </p>
                 </div>
                 <div className={classes.landing__image_container}>
-                    <img className={classes.landing__image_container__portrait} src='./src/assets/Amelia_Portrait.jpg' alt='portrait'/>
+                    <img className={classes.landing__image_container__portrait} src={portrait} alt='portrait'/>
                 </div>    
             </div>
             <div className={classes.techBox}>
