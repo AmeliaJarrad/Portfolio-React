@@ -21,4 +21,4 @@ import classes from './NavBar.module.scss';
   );
 }
 
-export default NavBar
+export default NavBar 

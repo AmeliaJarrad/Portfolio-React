@@ -1,4 +1,5 @@
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
+console.log("Resolved BACKEND_URL:", BACKEND_URL);
 
 //modifications done to have a static back end for now until I have a backend server
 
