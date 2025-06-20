@@ -58,6 +58,18 @@
       "githubLink": "https://github.com",
       "demoLink": "https://netlify.com"
     },
+
+    {
+      "id": "5",
+      "name": "Portfolio Website",
+      "githubLink": "",
+      "demoLink": "https://ameliajarrad.github.io/Portfolio-React",
+      "techStack": ["React", "Frontend"],
+      "description": "This very site.",
+      "imageUrl": "https://placekeanu.com/200/200",
+      "createdAt": "17/06/2025"
+    },
+
     {
       "id": "1d86",
       "name": "Google Books",
